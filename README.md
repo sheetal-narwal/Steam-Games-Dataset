@@ -21,4 +21,4 @@ The dataset contained information regarding game titles, publishers, developers,
 * Most games on the Steam platform were released after 2010, but Steam has included older games in their database as well (Earliest being from 1997)
 * Most games are released on Thursdays and Fridays, contrary to the assumption that they are being released on weekends.
 * Indie games seem to tend towards simulation, dungeons, war and adventure based themes, indicated by their importance in the wordcloud.
-* Action games seem to tend towards zombies, adventure, space, battles and war based themes, indicated by their importance in the wordcloud.
+* Action games seem to tend towards zombies, adventure, space, battles and war based themes, indicated by their importance in the wordcloud. 
